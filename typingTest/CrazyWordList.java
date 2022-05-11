@@ -99,6 +99,7 @@ public class CrazyWordList extends WordList {
     //Custom constructor
     //Fills words with any number of strings passed
     public CrazyWordList(String...wordsList){
+        super();
         
         ArrayList<String> list = new ArrayList<>();
         
