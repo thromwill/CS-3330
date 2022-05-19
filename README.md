@@ -1,5 +1,6 @@
 # CS-3330
 
+TypingTest
 
 JavaType is a capable typing test featuring several test modes and statistic collection
 that was built during my second semester sophomore year during CS 3330, an object
