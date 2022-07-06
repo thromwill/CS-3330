@@ -9,9 +9,9 @@ The goal of this design was to implement a variety of principles of object orien
 The standard typing test uses the 200 most common english words, but tests are limitless as they can be configured using crazy words, stories, and even any custom set of test words you would like to create.
 
 After taking a typing test, the program displays your test statistics:
-
+<pre>
 Time : elapsed time spent typing in seconds
 Accuracy: percentage of correctly pressed keys
 Raw(wpm): total amount of correct characters divided by 5, normalized to 60 seconds
 WPM : raw value multiplied by accuracy value
-
+</pre>
