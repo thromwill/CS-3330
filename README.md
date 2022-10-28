@@ -1,4 +1,4 @@
-# CS-3330
+# CS-3330 Object Oriented Programming
 
 JavaType is a capable typing test featuring several test modes and statistic collection that was built during my second semester sophomore year during CS 3330, an object oriented class taught in Java.
 
